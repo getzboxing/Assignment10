@@ -1,0 +1,32 @@
+//{$("#team").append("Name: " + value.name + "<br>" + "Title: " + value.title + "<br>" + "Bio: " + value.bio + "<br><br>"
+{"teammembers":[
+    {
+    "name": "Marvin",
+    "title": "Doctor of Letters",
+    "city": "Arkansas"
+    },
+    
+    {
+    "name": "Carmen",
+    "title": "Principle",
+    "city": "North Carolina"
+    },
+    
+    {
+    "name": "Dashon",
+    "title": "Administrator",
+    "city": "Tennesee"
+    },
+    
+    {
+    "name": "Chanelle",
+    "title": "Security",
+    "city": "Montana"
+    },
+    
+    {
+    "name": "Chang",
+    "title": "Operation Chief",
+    "city": "Rhode Island"
+    }
+]}

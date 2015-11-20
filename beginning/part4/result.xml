@@ -1,0 +1,25 @@
+<management>
+       <teammember>
+           <name>Abdula</name>
+           <title>Owner</title>
+           <bio>Advanced Degree</bio>
+       </teammember>
+       
+       <teammember>
+           <name>Shafar</name>
+           <title>Manager</title>
+           <bio>Decades Experience</bio>
+       </teammember>
+       
+       <teammember>
+           <name>Sebastien</name>
+           <title>Executive</title>
+           <bio>Community Leader</bio>
+       </teammember>
+       
+       <teammember>
+           <name>Loraine</name>
+           <title>Human Resources</title>
+           <bio>Political Activist</bio>
+       </teammember>
+</management>
